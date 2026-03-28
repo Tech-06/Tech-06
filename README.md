@@ -1,4 +1,3 @@
- ![Stats](https://github-readme-stats.vercel.app/api?username=Tech-06&show_icons=true&theme=dark)
 # ***Tech***
 ## 🚀 About Me
 - 💻 I'm studying **Computer Engineering** in Istanbul  
