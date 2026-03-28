@@ -1,5 +1,3 @@
-
-***I use **Arch Linux** btw***  
  ![Stats](https://github-readme-stats.vercel.app/api?username=Tech-06&show_icons=true&theme=dark)
 # ***Tech***
 ## 🚀 About Me
