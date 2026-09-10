@@ -32,13 +32,3 @@ I am a Computer Engineering student in Istanbul and a passionate developer focus
 ![Self Hosting](https://img.shields.io/badge/Hosting-On--Prem_%26_Local-232F3E?style=for-the-badge&logo=serverless&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tech-06&show_icons=true&theme=radical&hide_border=true" alt="Tech-06 GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-06&theme=radical&hide_border=true" alt="Tech-06 GitHub Streak" />
-</p>
-
----
